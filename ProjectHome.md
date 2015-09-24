@@ -1,0 +1,3 @@
+This repository contains a large selection of Australian terrestrial (Freeview) logos for use with [MediaPortal](http://www.team-mediaportal.com/) and the [LogoManager plugin](http://www.team-mediaportal.com/extensions/utilities/logomanager). Logos are presented at a maximum of 190x190px.
+
+Instructions on using LogoManager are available [here](http://code.google.com/p/mediaportal-uk-logos/#Instructions).
